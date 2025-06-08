@@ -16,10 +16,10 @@ import { useRef } from "react";
 
 export function AddProduct() {
   const closeRef = useRef<HTMLButtonElement>(null);
-  const handleSubmit = async (event: any) => {
+  const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
 
-    const formData = new FormData(event.target);
+    const formData = new FormData(event.currentTarget);
     const productData = {
       nome: formData.get("name")?.toString() || "",
       kcal: parseFloat(formData.get("kcal")?.toString() || "0") || 0,
@@ -35,12 +35,10 @@ export function AddProduct() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(productData),
       });
-
-      const result = await res.json();
     } catch (err) {
       console.error("Errore nella chiamata API:", err);
     } finally {
-      event.target.reset();
+      event.currentTarget.reset();
       closeRef.current?.click();
       window.location.reload();
     }

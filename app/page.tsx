@@ -77,10 +77,6 @@ export default function Home() {
     });
   };
 
-  const refreshMeals = () => {
-    fetchMeals();
-  };
-
   if (loading) {
     return (
       <div className="container mx-auto p-5">

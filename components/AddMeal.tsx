@@ -203,7 +203,7 @@ export function AddMeal() {
                     </Label>
                     <Select
                       value={mealProduct.productName}
-                      onValueChange={(value: any) =>
+                      onValueChange={(value: string) =>
                         updateMealProduct(mealProduct.id, "productName", value)
                       }
                     >
