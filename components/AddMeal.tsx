@@ -145,6 +145,7 @@ export function AddMeal() {
       setMealName("");
       setMealProducts([{ id: "1", productName: "", grams: 0 }]);
       closeRef.current?.click();
+      window.location.reload();
     }
   };
 

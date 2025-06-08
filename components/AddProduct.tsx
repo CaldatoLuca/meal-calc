@@ -42,6 +42,7 @@ export function AddProduct() {
     } finally {
       event.target.reset();
       closeRef.current?.click();
+      window.location.reload();
     }
   };
 
