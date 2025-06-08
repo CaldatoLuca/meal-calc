@@ -1,9 +1,359 @@
 [
   {
-    "nome": "fghu",
-    "kcal": 7,
-    "carboidrati": 8,
+    "nome": "Pasta di grano duro",
+    "kcal": 350,
+    "carboidrati": 72,
+    "proteine": 12,
+    "grassi": 1.5
+  },
+  {
+    "nome": "Riso",
+    "kcal": 330,
+    "carboidrati": 78,
     "proteine": 7,
-    "grassi": 78
+    "grassi": 0.5
+  },
+  {
+    "nome": "Pane bianco",
+    "kcal": 265,
+    "carboidrati": 55,
+    "proteine": 8,
+    "grassi": 1
+  },
+  {
+    "nome": "Parmigiano Reggiano",
+    "kcal": 390,
+    "carboidrati": 0,
+    "proteine": 35,
+    "grassi": 28
+  },
+  {
+    "nome": "Mozzarella",
+    "kcal": 280,
+    "carboidrati": 1,
+    "proteine": 22,
+    "grassi": 22
+  },
+  {
+    "nome": "Olio extravergine oliva",
+    "kcal": 884,
+    "carboidrati": 0,
+    "proteine": 0,
+    "grassi": 100
+  },
+  {
+    "nome": "Pomodori pelati",
+    "kcal": 18,
+    "carboidrati": 3.5,
+    "proteine": 1,
+    "grassi": 0.2
+  },
+  {
+    "nome": "Basilico fresco",
+    "kcal": 23,
+    "carboidrati": 2.6,
+    "proteine": 3.2,
+    "grassi": 0.6
+  },
+  {
+    "nome": "Aglio",
+    "kcal": 149,
+    "carboidrati": 33,
+    "proteine": 6.4,
+    "grassi": 0.5
+  },
+  {
+    "nome": "Cipolla",
+    "kcal": 40,
+    "carboidrati": 9.3,
+    "proteine": 1.1,
+    "grassi": 0.1
+  },
+  {
+    "nome": "Uova",
+    "kcal": 155,
+    "carboidrati": 1.1,
+    "proteine": 13,
+    "grassi": 11
+  },
+  {
+    "nome": "Prosciutto crudo",
+    "kcal": 270,
+    "carboidrati": 0,
+    "proteine": 26,
+    "grassi": 18
+  },
+  {
+    "nome": "Salame",
+    "kcal": 425,
+    "carboidrati": 1,
+    "proteine": 22,
+    "grassi": 37
+  },
+  {
+    "nome": "Bresaola",
+    "kcal": 151,
+    "carboidrati": 0.6,
+    "proteine": 32,
+    "grassi": 2.6
+  },
+  {
+    "nome": "Tonno in scatola",
+    "kcal": 116,
+    "carboidrati": 0,
+    "proteine": 26,
+    "grassi": 1
+  },
+  {
+    "nome": "Latte intero",
+    "kcal": 64,
+    "carboidrati": 4.8,
+    "proteine": 3.2,
+    "grassi": 3.6
+  },
+  {
+    "nome": "Yogurt greco",
+    "kcal": 133,
+    "carboidrati": 4,
+    "proteine": 10,
+    "grassi": 10
+  },
+  {
+    "nome": "Caffè espresso",
+    "kcal": 2,
+    "carboidrati": 0,
+    "proteine": 0.1,
+    "grassi": 0
+  },
+  {
+    "nome": "Zucchero",
+    "kcal": 387,
+    "carboidrati": 100,
+    "proteine": 0,
+    "grassi": 0
+  },
+  {
+    "nome": "Farina 00",
+    "kcal": 340,
+    "carboidrati": 77,
+    "proteine": 11,
+    "grassi": 0.7
+  },
+  {
+    "nome": "Pollo petto",
+    "kcal": 165,
+    "carboidrati": 0,
+    "proteine": 31,
+    "grassi": 3.6
+  },
+  {
+    "nome": "Manzo magro",
+    "kcal": 250,
+    "carboidrati": 0,
+    "proteine": 26,
+    "grassi": 15
+  },
+  {
+    "nome": "Salmone",
+    "kcal": 208,
+    "carboidrati": 0,
+    "proteine": 25,
+    "grassi": 12
+  },
+  {
+    "nome": "Zucchine",
+    "kcal": 17,
+    "carboidrati": 3.1,
+    "proteine": 1.2,
+    "grassi": 0.3
+  },
+  {
+    "nome": "Melanzane",
+    "kcal": 25,
+    "carboidrati": 5.9,
+    "proteine": 1,
+    "grassi": 0.2
+  },
+  {
+    "nome": "Peperoni",
+    "kcal": 31,
+    "carboidrati": 6,
+    "proteine": 1,
+    "grassi": 0.3
+  },
+  {
+    "nome": "Spinaci",
+    "kcal": 23,
+    "carboidrati": 3.6,
+    "proteine": 2.9,
+    "grassi": 0.4
+  },
+  {
+    "nome": "Rucola",
+    "kcal": 25,
+    "carboidrati": 3.7,
+    "proteine": 2.6,
+    "grassi": 0.7
+  },
+  {
+    "nome": "Limone",
+    "kcal": 29,
+    "carboidrati": 9,
+    "proteine": 1.1,
+    "grassi": 0.3
+  },
+  {
+    "nome": "Banane",
+    "kcal": 89,
+    "carboidrati": 23,
+    "proteine": 1.1,
+    "grassi": 0.3
+  },
+  {
+    "nome": "Mele",
+    "kcal": 52,
+    "carboidrati": 14,
+    "proteine": 0.3,
+    "grassi": 0.2
+  },
+  {
+    "nome": "Arance",
+    "kcal": 47,
+    "carboidrati": 12,
+    "proteine": 0.9,
+    "grassi": 0.1
+  },
+  {
+    "nome": "Vino rosso",
+    "kcal": 85,
+    "carboidrati": 2.6,
+    "proteine": 0.1,
+    "grassi": 0
+  },
+  {
+    "nome": "Aceto balsamico",
+    "kcal": 88,
+    "carboidrati": 17,
+    "proteine": 0.5,
+    "grassi": 0
+  },
+  {
+    "nome": "Nutella",
+    "kcal": 539,
+    "carboidrati": 57,
+    "proteine": 6,
+    "grassi": 31
+  },
+  {
+    "nome": "Gelato alla vaniglia",
+    "kcal": 207,
+    "carboidrati": 24,
+    "proteine": 3.5,
+    "grassi": 11
+  },
+  {
+    "nome": "Biscotti secchi",
+    "kcal": 416,
+    "carboidrati": 84,
+    "proteine": 6.3,
+    "grassi": 7.5
+  },
+  {
+    "nome": "Cannellini in scatola",
+    "kcal": 91,
+    "carboidrati": 16,
+    "proteine": 6.7,
+    "grassi": 0.5
+  },
+  {
+    "nome": "Lenticchie secche",
+    "kcal": 116,
+    "carboidrati": 20,
+    "proteine": 9,
+    "grassi": 0.4
+  },
+  {
+    "nome": "Ceci in scatola",
+    "kcal": 82,
+    "carboidrati": 14,
+    "proteine": 4.3,
+    "grassi": 1.4
+  },
+  {
+    "nome": "Mortadella",
+    "kcal": 311,
+    "carboidrati": 1.5,
+    "proteine": 15,
+    "grassi": 27
+  },
+  {
+    "nome": "Ricotta",
+    "kcal": 174,
+    "carboidrati": 3,
+    "proteine": 11,
+    "grassi": 13
+  },
+  {
+    "nome": "Gorgonzola",
+    "kcal": 330,
+    "carboidrati": 0,
+    "proteine": 19,
+    "grassi": 27
+  },
+  {
+    "nome": "Pecorino Romano",
+    "kcal": 387,
+    "carboidrati": 0,
+    "proteine": 32,
+    "grassi": 27
+  },
+  {
+    "nome": "Prosciutto cotto",
+    "kcal": 215,
+    "carboidrati": 0.9,
+    "proteine": 20,
+    "grassi": 14
+  },
+  {
+    "nome": "Pancetta",
+    "kcal": 541,
+    "carboidrati": 0,
+    "proteine": 9,
+    "grassi": 56
+  },
+  {
+    "nome": "Guanciale",
+    "kcal": 655,
+    "carboidrati": 0,
+    "proteine": 9.5,
+    "grassi": 69
+  },
+  {
+    "nome": "Carote",
+    "kcal": 41,
+    "carboidrati": 10,
+    "proteine": 0.9,
+    "grassi": 0.2
+  },
+  {
+    "nome": "Sedano",
+    "kcal": 16,
+    "carboidrati": 3,
+    "proteine": 0.7,
+    "grassi": 0.2
+  },
+  {
+    "nome": "Prezzemolo",
+    "kcal": 36,
+    "carboidrati": 6.3,
+    "proteine": 3,
+    "grassi": 0.8
+  },
+  {
+    "nome": "Rosmarino",
+    "kcal": 131,
+    "carboidrati": 20,
+    "proteine": 3.3,
+    "grassi": 5.9
   }
 ]

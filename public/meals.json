@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1704553200000",
+    "nome": "Pasta al Pomodoro",
+    "kcal": 425.5,
+    "carboidrati": 78.2,
+    "proteine": 14.8,
+    "grassi": 12.3,
+    "ingredients": [
+      {
+        "id": "1",
+        "productName": "Pasta di grano duro",
+        "grams": 100
+      },
+      {
+        "id": "2",
+        "productName": "Pomodori pelati",
+        "grams": 200
+      },
+      {
+        "id": "3",
+        "productName": "Olio extravergine oliva",
+        "grams": 10
+      },
+      {
+        "id": "4",
+        "productName": "Parmigiano Reggiano",
+        "grams": 15
+      }
+    ],
+    "createdAt": "2024-01-06T15:00:00.000Z"
+  },
+  {
+    "id": "1704556800000",
+    "nome": "Insalata di Pollo",
+    "kcal": 312.7,
+    "carboidrati": 8.4,
+    "proteine": 38.2,
+    "grassi": 14.1,
+    "ingredients": [
+      {
+        "id": "1",
+        "productName": "Pollo petto",
+        "grams": 150
+      },
+      {
+        "id": "2",
+        "productName": "Rucola",
+        "grams": 50
+      },
+      {
+        "id": "3",
+        "productName": "Pomodori pelati",
+        "grams": 100
+      },
+      {
+        "id": "4",
+        "productName": "Olio extravergine oliva",
+        "grams": 8
+      },
+      {
+        "id": "5",
+        "productName": "Limone",
+        "grams": 20
+      }
+    ],
+    "createdAt": "2024-01-06T16:00:00.000Z"
+  },
+  {
+    "id": "1749416861884",
+    "nome": "Mozzarella e Salame",
+    "kcal": 270.5,
+    "carboidrati": 0.8,
+    "proteine": 17.4,
+    "grassi": 22.5,
+    "ingredients": [
+      {
+        "id": "1",
+        "productName": "Mozzarella",
+        "grams": 45
+      },
+      {
+        "id": "2",
+        "productName": "Salame",
+        "grams": 34
+      }
+    ],
+    "createdAt": "2025-06-08T21:07:41.884Z"
+  }
+]
