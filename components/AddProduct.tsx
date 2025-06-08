@@ -38,7 +38,6 @@ export function AddProduct() {
     } catch (err) {
       console.error("Errore nella chiamata API:", err);
     } finally {
-      event.currentTarget.reset();
       closeRef.current?.click();
       window.location.reload();
     }
