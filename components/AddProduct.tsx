@@ -30,7 +30,7 @@ export function AddProduct() {
     };
 
     try {
-      const res = await fetch("/api/save", {
+      await fetch("/api/save", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(productData),
